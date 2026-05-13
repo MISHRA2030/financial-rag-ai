@@ -1,0 +1,11 @@
+crewai
+langchain
+langchain-community
+openai
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+python-dotenv
+pypdf
+tiktoken
